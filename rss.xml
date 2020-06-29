@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Code like a 🐢]]></title><description><![CDATA[Daud's blog about things.]]></description><link>https://daudahmad.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 29 Jun 2020 01:12:49 GMT</lastBuildDate><item><title><![CDATA[Hello world, and some good news]]></title><description><![CDATA[This is my first post on my new blog! How exciting! I’ve recently moved to Melbourne from Islamabad, Pakistan. I thought I’d start with some…]]></description><link>https://daudahmad.github.io/hello-world/</link><guid isPermaLink="false">https://daudahmad.github.io/hello-world/</guid><pubDate>Thu, 14 Feb 2019 20:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new blog! How exciting!&lt;/p&gt;
+&lt;p&gt;I’ve recently moved to Melbourne from Islamabad, Pakistan.&lt;/p&gt;
+&lt;p&gt;I thought I’d start with some good news from the world.&lt;/p&gt;
+&lt;h2&gt;Poverty decline over the years&lt;/h2&gt;
+&lt;p&gt;In 1820, more than 90% of the world lived in extreme poverty and now it’s around 10%.
+This is pretty &lt;em&gt;incredible&lt;/em&gt; if you ask me.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/72675e7e511b9c473b54763483682ace/292f3/world-extreme-poverty.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACqUlEQVQ4y41TaU8TURTtLzTxk4ZVsHSGKVC2CnwwBhMjiQvSmphoYkHZGlGRYvFDYxALGMCIAlIKCK3t7C1pAdvpdrwzZSlRoi858+6Z9+bcc++bZ4rH45BFCYokQxQExNQYFFmBqqpQFOUkliQJe3t7EEXRiJPJJAqFggF9+Hx+TE/Pw6QqKkJ8BCGZR1iIghcFCCQs8jyikYgR8wLFfBSSLEGURIPryXSe1tKGoLwbghoOw6QnWFp+jyevbuOxz4HeGQd65p24tfAQPZ+cuDPrxP2PDtzzO3HX7yiBEz0zvQiqWygdJv0huN1YvnwJX1kL5hrNGL/O4NEDK7oHbGgcb4X5XTsYbxusHsJEGzhPMWbe2LAsrBhCuXzOKN+UJcKPuLFRXoUt1optM4tQDYvdGgabdSwWWzj097Wg222HbarLQMtbgrcLjZN2fBNXjwTzpw7lF2NYL6tAkOWwYWERYIoIkuD2VQY7tQyCZgbeGw1o9XSgaaqTRDvRMNmOFfG7IXR8QEcOR7FeXlkUrGNOYSkiQEl0vnvFAr+dQ/tEB2zeTjSRw5mdWcgHigFD8A+HpYJnhFmsk+twtQWuvmYwPirfY8dceAFaTkMml/kPh38R3qR5hWPRPWoHM2XHWknJpz0ce3niMEhOzgX1VC//B/V1qZnDtbFWfJGKh5I/c8qjbgQqqxHkGoqi/0CgnkO4th6vb1rxOR4oCpb+hzKVvHrhIgJVNUbpxwhUVJ3L9XitrBzR+Q/I7x8gE4uhkMvBpCtL/lmIrgFEBp5BeD4IeXgE0tAwfrr6jVnn4uAwwk9dNA8ZnKd9Ok8sLiFL1zCXSOqNhCmdSiFxeIgUkYNMBoeURb+daeLJdJre56ER/0U/rr6mjzRobzaLBK3v0/cpTYNGPEXxbzHterZ9SO6JAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;World poverty figures&quot;
+        title=&quot;World poverty figures&quot;
+        src=&quot;/static/72675e7e511b9c473b54763483682ace/fcda8/world-extreme-poverty.png&quot;
+        srcset=&quot;/static/72675e7e511b9c473b54763483682ace/12f09/world-extreme-poverty.png 148w,
+/static/72675e7e511b9c473b54763483682ace/e4a3f/world-extreme-poverty.png 295w,
+/static/72675e7e511b9c473b54763483682ace/fcda8/world-extreme-poverty.png 590w,
+/static/72675e7e511b9c473b54763483682ace/efc66/world-extreme-poverty.png 885w,
+/static/72675e7e511b9c473b54763483682ace/c83ae/world-extreme-poverty.png 1180w,
+/static/72675e7e511b9c473b54763483682ace/292f3/world-extreme-poverty.png 3400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Death by famines over the years&lt;/h2&gt;
+&lt;p&gt;Famines used to kill millions of people once upon a time but now we’ve almost fixed this problem for the most part.
+&lt;strong&gt;Amazing!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0377d14f6f67e8b51931b0fdeebe15b4/1047b/famines.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.70270270270271%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgADBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe6s0OEf/8QAFRABAQAAAAAAAAAAAAAAAAAAASD/2gAIAQEAAQUCK//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABkQAAMAAwAAAAAAAAAAAAAAAAABERBRkf/aAAgBAQABPyFhO4qOCu0f/9oADAMBAAIAAwAAABCgz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQACAgMBAAAAAAAAAAAAAAEhMQAREEFhgf/aAAgBAQABPxCRFjrAo8b2E8vF2EjVRWJlnzP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Famines&quot;
+        title=&quot;Famines&quot;
+        src=&quot;/static/0377d14f6f67e8b51931b0fdeebe15b4/1c72d/famines.jpg&quot;
+        srcset=&quot;/static/0377d14f6f67e8b51931b0fdeebe15b4/a80bd/famines.jpg 148w,
+/static/0377d14f6f67e8b51931b0fdeebe15b4/1c91a/famines.jpg 295w,
+/static/0377d14f6f67e8b51931b0fdeebe15b4/1c72d/famines.jpg 590w,
+/static/0377d14f6f67e8b51931b0fdeebe15b4/a8a14/famines.jpg 885w,
+/static/0377d14f6f67e8b51931b0fdeebe15b4/fbd2c/famines.jpg 1180w,
+/static/0377d14f6f67e8b51931b0fdeebe15b4/1047b/famines.jpg 1924w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
